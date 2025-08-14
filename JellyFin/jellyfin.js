@@ -203,6 +203,5 @@ async function extractStreamUrl(key) {
         throw new Error("No media sources found");
     } catch (err) {
         console.error("Stream extraction error:", err);
-        return "https://files.catbox.moe/avolvc.mp4";
     }
 }
