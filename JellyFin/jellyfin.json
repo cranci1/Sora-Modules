@@ -1,0 +1,17 @@
+{
+    "sourceName": "JellyFin",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hELYbRA5IB6-ci3AzpkvOTJ3BAq6-_LmMg&s",
+    "author": {
+        "name": "cranci1",
+        "icon": "https://avatars.githubusercontent.com/u/100066266?v=4"
+    },
+    "version": "1.0.0",
+    "language": "Multi",
+    "streamType": "MP4/HLS",
+    "quality": "1080p",
+    "baseUrl": "",
+    "searchBaseUrl": "",
+    "scriptUrl": "https://raw.githubusercontent.com/cranci1/Sora-Modules/refs/heads/main/JellyFin/jellyfin.js",
+    "type": "shows/movies/anime",
+    "asyncJS": true
+}
