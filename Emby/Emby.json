@@ -1,0 +1,17 @@
+{
+    "sourceName": "Emby",
+    "iconUrl": "https://nascompares.com/wp-content/uploads/2016/06/EMBY-LOGO.png",
+    "author": {
+        "name": "cranci1",
+        "icon": "https://avatars.githubusercontent.com/u/100066266?v=4"
+    },
+    "version": "1.0.0",
+    "language": "Multi",
+    "streamType": "MP4/HLS",
+    "quality": "1080p",
+    "baseUrl": "",
+    "searchBaseUrl": "",
+    "scriptUrl": "https://raw.githubusercontent.com/cranci1/Sora-Modules/refs/heads/main/Emby/Emby.js",
+    "type": "shows/movies/anime",
+    "asyncJS": true
+}
