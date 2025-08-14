@@ -1,7 +1,6 @@
 # Sora-Modules
 
-This repository contains the following modules: **JellyFin** and **Emby**, this allows you to enjoy emby and jellyfin on [Sora](https://github.com/cranci1/Sora).
----
+This repository contains the following modules: **_JellyFin_** and **_Emby_**, which allows you to enjoy emby and jellyfin on [Sora](https://github.com/cranci1/Sora).
 
 ## Setup Instructions
 
@@ -9,7 +8,7 @@ This repository contains the following modules: **JellyFin** and **Emby**, this 
    Open the JS file and replace the placeholders with:
    - Your Emby/JellyFin server's base URL (e.g., `http://localhost:8096`)
    
-   - Your Emby/JellyFin user ID. You can find it in Dashboard -> Users -> Select the user -> take the "userID" value from the URL example: "http://localhost:8096/web/#/dashboard/users/profile?userId=529c1be6ba1048ccbdbde06b94bff4e2", userID will be: "529c1be6ba1048ccbdbde06b94bff4e2".
+   - Your Emby/JellyFin user ID. You can find it in Dashboard -> Users -> Select the user -> take the "userID" value from the URL (e.g., "http://localhost:8096/web/#/dashboard/users/profile?userId=529c1be6ba1048ccbdbde06b94bff4e2", userID will be: "529c1be6ba1048ccbdbde06b94bff4e2")
    
    - Your Emby/JellyFin API Key. You can create an API Key in Dashboard -> Api Keys -> generate a new one and copy the token.
 
