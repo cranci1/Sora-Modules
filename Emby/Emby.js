@@ -15,9 +15,11 @@
 // Make sure to host this file on a private webserver or a private GitHub repository!
 //
 
+---
 const baseUrl = "http://localhost:8096"; // e.g., "http://192.168.0.1:8096";
 const apiKey = "key"; // Your Emby API key
 const userId = "userID"; // Your Emby User ID (can be found in Settings > Users, in the URL)
+---
 
 //
 // Do not edit below this line unless you know what you're doing.

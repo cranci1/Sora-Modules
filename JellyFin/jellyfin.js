@@ -15,9 +15,11 @@
 // Make sure to host this file on a private webserver or a private GitHub repository!
 //
 
+---
 const baseUrl = "http://localhost:8096"; // e.g., "http://192.168.0.1:8096";
 const apiKey = "key"; // Your JellyFin API key
 const userId = "userID"; // Your JellyFin User ID (can be found in Dashboard > Users, inside the page URL)
+---
 
 //
 // Do not edit below this line unless you know what you're doing.

@@ -13,5 +13,6 @@
     "searchBaseUrl": "",
     "scriptUrl": "https://raw.githubusercontent.com/cranci1/Sora-Modules/refs/heads/main/JellyFin/jellyfin.js",
     "type": "shows/movies/anime",
-    "asyncJS": true
+    "asyncJS": true,
+    "settings": true
 }
