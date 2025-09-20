@@ -3,6 +3,7 @@
 This repository contains the following modules: **_JellyFin_** and **_Emby_**, which allows you to enjoy emby and jellyfin on [Sora](https://github.com/cranci1/Sora).
 
 ## Setup Instructions
+> As of [Sora-2](https://github.com/cranci1/Sora-2) the configuration can be made in the app, and so Hosting the files is not necessary, everything will be saved locally.
 
 1. **Configure Your Server Info**  
    Open the JS file and replace the placeholders with:
